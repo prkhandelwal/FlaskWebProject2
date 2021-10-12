@@ -44,7 +44,7 @@ ndg-httpsclient==0.4.3
 nltk==3.2.5
 notebook==5.0.0
 numpy==1.14.0
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 pandas==0.20.3
 pandocfilters==1.4.2
 pickleshare==0.7.4
