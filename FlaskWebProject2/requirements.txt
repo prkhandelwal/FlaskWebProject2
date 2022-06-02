@@ -18,7 +18,7 @@ Flask==0.12.1
 future==0.16.0
 futures==3.1.1
 gunicorn==19.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 inflection==0.3.1
 ipykernel==4.6.1
